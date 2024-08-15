@@ -11,19 +11,19 @@ export const cards = [
     },
     {
         id : 101,
-        name: "Gofree",
+        name: "Teerawat Gofree",
         biog: "นักศึกษา",
-        bgProf: "/img/img.jpg",
+        bgProf: "/img/images.jpg",
         userIcon: "/img/star.png",
         userName: "Fluk",
         createdAt: "July 1, 2002",
-        active: false
+        active: true
     },
     {
         id : 102,
         name: "Niti Pakjamsai",
         biog: "นักศึกษา",
-        bgProf: "/img/img.jpg",
+        bgProf: "/img/img7.jpg",
         userIcon: "/img/star.png",
         userName: "Boss",
         createdAt: "July 11, 2002",
